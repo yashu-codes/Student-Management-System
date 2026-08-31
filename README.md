@@ -1,5 +1,9 @@
 # Student Management System
 
+## Project Screenshot
+
+![Student Management System](Screenshot%20(206).png)
+
 A Python Tkinter-based Student Management System that uses CSV for data storage.
 
 ## Features
