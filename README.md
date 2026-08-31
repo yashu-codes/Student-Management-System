@@ -33,3 +33,7 @@ Make sure Python is installed, then run:
 
 ```bash
 python student_system_csv_fixed.py
+
+## Screenshot
+
+![Student Management System](Screenshot%20(206).png)
